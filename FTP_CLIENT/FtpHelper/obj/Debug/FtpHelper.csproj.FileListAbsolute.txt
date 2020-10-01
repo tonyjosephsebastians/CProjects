@@ -1,0 +1,14 @@
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.Form1.resources
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.Properties.Resources.resources
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.csproj.GenerateResource.Cache
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\bin\Debug\FtpHelper.exe.config
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\bin\Debug\FtpHelper.exe
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\bin\Debug\FtpHelper.pdb
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.exe
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.pdb
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\bin\Debug\FtpUploader.dll
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\bin\Debug\FtpHelper.exe.manifest
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\bin\Debug\FtpHelper.application
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.TrustInfo.xml
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.exe.manifest
+C:\Users\tony.sebastian\documents\visual studio 2015\Projects\FtpHelper\FtpHelper\obj\Debug\FtpHelper.application
